@@ -1,0 +1,7 @@
+##格式
+# 原命令:
+#   - '短命令'
+#   - '短命令1'
+commandshort:
+  - 'cshort'
+  - 'cmdshort'
